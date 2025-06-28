@@ -1,0 +1,11 @@
+{
+  "goldToken": "0x...",
+  "reitToken": "0x...",
+  "marketplace": "0x...",
+  "bridge": "0x...",
+  "deployer": "0x...",
+  "network": {
+    "name": "localhost",
+    "chainId": 31337
+  }
+}
